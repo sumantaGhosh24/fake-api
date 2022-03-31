@@ -1,3 +1,7 @@
 /node_modules
 .env
-note.txt
+/tmp
+/data
+/src/routes/orderRouter.js
+/src/models/orderModel.js
+/src/controllers/orderCtrl.js

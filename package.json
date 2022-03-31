@@ -4,7 +4,8 @@
   "description": "fake api for testing",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "nodemon src/server.js",
+    "clear": "rm -rf tmp"
   },
   "author": "sumanta ghosh",
   "license": "ISC",
